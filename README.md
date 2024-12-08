@@ -42,6 +42,6 @@ tugas pbtgm
 
 ![](screenshoot%20git/menambah%20foto%20ke%20README.md%201.png)
 
-- upload ke README.md 2
+- upload ke README.md  2
 
-[](screenshoot%20git/menambahkan%20foto%20ke%20README.md%202.png)
+![](screenshoot%20git/menambahkan%20foto%20ke%20README.md%202.png)
